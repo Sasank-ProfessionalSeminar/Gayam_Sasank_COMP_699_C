@@ -37,7 +37,6 @@ This system allows IT teams to compare configuration snapshots, score risks, vis
 
 ### Installation
 
-```bash
 git clone https://github.com/<your-username>/configuration-drift-detector.git
 cd configuration-drift-detector
 pip install -r requirements.txt
